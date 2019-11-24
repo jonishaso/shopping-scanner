@@ -1,0 +1,23 @@
+{
+  "atv": {
+    "isBundle": true,
+    "number": 3,
+    "giftItem": "",
+    "giftAmount": 0,
+    "priceChangeTo": 0.0
+  },
+  "ipd": {
+    "isBundle": false,
+    "number": 4,
+    "giftItem": "",
+    "giftAmount": 0,
+    "priceChangeTo": 499.99
+  },
+  "mbp": {
+    "isBundle": true,
+    "number": 1,
+    "giftItem": "vga",
+    "giftAmount": 1,
+    "priceChangeTo": 0.0
+  }
+}
